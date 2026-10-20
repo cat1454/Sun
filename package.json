@@ -1,0 +1,16 @@
+{
+  "name": "khoa-hoc-javascript-typescript",
+  "version": "1.0.0",
+  "description": "Tong hop kien thuc va bai tap thuc hanh JS/TS",
+  "scripts": {
+    "run:js": "node thuc_hanh_js.js",
+    "run:ts": "ts-node thuc_hanh_ts.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
+
